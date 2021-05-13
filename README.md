@@ -38,3 +38,4 @@ For this assignment, i create a employee directory with React. This assignment w
 ##### Directory:
 * [Current Repository](https://github.com/MatacheMarius/Employee-Directory)
 * [Website](https://matachemarius.github.io/Employee-Directory/)
+.
