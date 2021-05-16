@@ -1,5 +1,6 @@
 {
   "name": "employee",
+  "homepage": "https://matachemarius.github.io/Employee-Directory/",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3000",
